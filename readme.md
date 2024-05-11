@@ -16,7 +16,7 @@
 ## Power BI Module 08
 [Add measures to Power BI Desktop models](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/HR77FK48?sharingId=EE78023F3B7352AD)
 ## Power BI Module 09
-[Add calculated tables and columns to Power BI Desktop models](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/YMEEZ82R?sharingId=EE78023F3B7352AD)
+[Add Calculated Tables and Columns to Power BI Desktop Models](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/YMEEZ82R?sharingId=EE78023F3B7352AD)
 ## Power BI Module 10
 [Use DAX Time Intelligence Functions in Power BI Desktop Models](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/PTP3D5C4?sharingId=EE78023F3B7352AD)
 ## Power BI Module 11
@@ -30,7 +30,7 @@
 ## Power BI Module 15
 [Develop Dynamic Reports with Microsoft Power BI](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/3YAAF3TH?sharingId=EE78023F3B7352AD)
 ## Power BI Module 16
-[Enhance Power BI report designs for the user experience](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/8AZZRJJW?sharingId=EE78023F3B7352AD)
+[Enhance Power BI Report Designs for the User Experience](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/8AZZRJJW?sharingId=EE78023F3B7352AD)
 ## Power BI Module 17
 [Create Dashboard in Power BI](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/HR77NC28?sharingId=EE78023F3B7352AD)
 ## Power BI Module 18
