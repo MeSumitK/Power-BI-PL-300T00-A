@@ -1,0 +1,28 @@
+# My MicroSoft Learning Dashboard
+## Badges and Trophies in Power BI
+[Overview:- 21 Modules, 18 Badges, 05 Trophies](https://learn.microsoft.com/en-us/users/imsumit/)
+## Total 18 Badges
+1. [Enhance Power BI Report Design for User Experience](https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/)
+2. [Configure Power BI Report FIlters](https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/)
+3. [Design Power BI Reports](https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/)
+4. [Add Calculated Tables and Columns in Power BI](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/)
+5. [Add Measures to Power BI Desktop](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/)
+6. [Implement Row Level Security](https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/)
+7. [Create Dashboards in Power BI](https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/)
+8. [Manage Semantic Models in Power BI](https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/)
+9. [Create and Manage Workspaces in Power BI](https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/)
+10. [Perform Analytics in Power BI](https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/)
+11. [Optimize a Model for Performance in Power BI](https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/)
+12. [Use DAX Time Intelligence Functions in Power BI Desktop Models](https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/)
+13. [Get Data in Power BI](https://learn.microsoft.com/en-us/training/modules/get-data/)
+14. [Design a Semantic Model in Power BI](https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/)
+15. [Clean, Transform, and Load Data in Power BI](https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/)
+16. [Get Data with Power BI Desktop](https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/)
+17. [Get Started Building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/)
+18. [Discover Data Analysis](https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/)
+## Total 05 Trophies
+1. [Develop Dynamic Reports with Microsoft Power BI](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/3YAAF3TH?sharingId=EE78023F3B7352AD)
+2. [Manage Workspaces and Datasets in Power BI](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/9FYY83BU?sharingId=EE78023F3B7352AD)
+3. [Get and Transform Data with Power BI](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/WA8GATPN?sharingId=EE78023F3B7352AD)
+4. [Prepare Data for Analysis with Power BI](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/N7W67SPF?sharingId=EE78023F3B7352AD)
+5. [Get Started with Microsoft Data Analytics](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/UFLKN263?sharingId=EE78023F3B7352AD)
