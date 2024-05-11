@@ -1,4 +1,4 @@
-# PL-300T00--A-Certifications
+# MY MICROSOFT POWER BI PL-300T00-A DATA ANALYST CERTIFICATES
 ## Power BI Module 01
 [Discover Data Analysis](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/UFL4UWK3?sharingId=EE78023F3B7352AD)
 ## Power BI Module 02
@@ -14,7 +14,7 @@
 ## Power BI Module 07
 [Design a Semantic Model in Power BI](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/N7W6AAWF?sharingId=EE78023F3B7352AD)
 ## Power BI Module 08
-[Add measures to Power BI Desktop models](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/HR77FK48?sharingId=EE78023F3B7352AD)
+[Add Measures to Power BI Desktop Models](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/HR77FK48?sharingId=EE78023F3B7352AD)
 ## Power BI Module 09
 [Add Calculated Tables and Columns to Power BI Desktop Models](https://learn.microsoft.com/api/achievements/share/en-us/ImSumit/YMEEZ82R?sharingId=EE78023F3B7352AD)
 ## Power BI Module 10
